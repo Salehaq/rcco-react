@@ -16,7 +16,6 @@ function App() {
       <Navigation/> 
       </div>
       <Crousal/>
-      <News/>
       <AboutUs/> 
       <TaxCalculator/>    
       <ServiceGrid />
